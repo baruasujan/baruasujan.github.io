@@ -7,3 +7,9 @@ body{
 .banner-column{
     background-color: #928d8d;
 }
+.navbar-container{
+    background-color: #212529;
+}
+.about-container{
+    background-color: rgb(36, 200, 206);
+}
